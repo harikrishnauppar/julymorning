@@ -1,0 +1,7 @@
+ls -ltrh
+df -k
+netstat
+ifconfig 
+top
+uname -a 
+
